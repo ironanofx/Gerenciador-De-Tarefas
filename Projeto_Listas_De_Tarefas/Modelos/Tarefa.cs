@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Projeto_Listas_De_Tarefas
+namespace Projeto_Listas_De_Tarefas.Modelos
 {
     public class Tarefa
     {
